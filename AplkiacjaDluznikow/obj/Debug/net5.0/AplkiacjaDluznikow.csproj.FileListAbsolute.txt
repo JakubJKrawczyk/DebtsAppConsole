@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\AplkiacjaDluznikow\AplkiacjaDluznikow\bin\Debug\net5.0\AplkiacjaDluznikow.exe
+C:\Users\user\source\repos\AplkiacjaDluznikow\AplkiacjaDluznikow\bin\Debug\net5.0\AplkiacjaDluznikow.deps.json
+C:\Users\user\source\repos\AplkiacjaDluznikow\AplkiacjaDluznikow\bin\Debug\net5.0\AplkiacjaDluznikow.runtimeconfig.json
+C:\Users\user\source\repos\AplkiacjaDluznikow\AplkiacjaDluznikow\bin\Debug\net5.0\AplkiacjaDluznikow.runtimeconfig.dev.json
+C:\Users\user\source\repos\AplkiacjaDluznikow\AplkiacjaDluznikow\bin\Debug\net5.0\AplkiacjaDluznikow.dll
+C:\Users\user\source\repos\AplkiacjaDluznikow\AplkiacjaDluznikow\bin\Debug\net5.0\ref\AplkiacjaDluznikow.dll
+C:\Users\user\source\repos\AplkiacjaDluznikow\AplkiacjaDluznikow\bin\Debug\net5.0\AplkiacjaDluznikow.pdb
+C:\Users\user\source\repos\AplkiacjaDluznikow\AplkiacjaDluznikow\obj\Debug\net5.0\AplkiacjaDluznikow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AplkiacjaDluznikow\AplkiacjaDluznikow\obj\Debug\net5.0\AplkiacjaDluznikow.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AplkiacjaDluznikow\AplkiacjaDluznikow\obj\Debug\net5.0\AplkiacjaDluznikow.AssemblyInfo.cs
+C:\Users\user\source\repos\AplkiacjaDluznikow\AplkiacjaDluznikow\obj\Debug\net5.0\AplkiacjaDluznikow.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AplkiacjaDluznikow\AplkiacjaDluznikow\obj\Debug\net5.0\AplkiacjaDluznikow.dll
+C:\Users\user\source\repos\AplkiacjaDluznikow\AplkiacjaDluznikow\obj\Debug\net5.0\ref\AplkiacjaDluznikow.dll
+C:\Users\user\source\repos\AplkiacjaDluznikow\AplkiacjaDluznikow\obj\Debug\net5.0\AplkiacjaDluznikow.pdb
+C:\Users\user\source\repos\AplkiacjaDluznikow\AplkiacjaDluznikow\obj\Debug\net5.0\AplkiacjaDluznikow.genruntimeconfig.cache
+C:\Users\user\source\repos\AplkiacjaDluznikow\AplkiacjaDluznikow\obj\Debug\net5.0\AplkiacjaDluznikow.csproj.AssemblyReference.cache
